@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![untitled](https://user-images.githubusercontent.com/106042101/169727395-9be42b2e-d240-4d1c-a14b-8addef8d63ca.png)
 (src)
 ```
-
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://user-images.githubusercontent.com/106042101/169727395-9be42b2e-d240-4d1c-a14b-8addef8d63ca.png))
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
